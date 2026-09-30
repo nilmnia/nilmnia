@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Niliya Milaninia 👋
 
-<!--
-**nilmnia/nilmnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Exploring Software Development
+🤖 Interested in Artificial Intelligence
+🌱 Currently learning and building new projects
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in software development and emerging technologies.
+
+I enjoy learning by building projects, experimenting with new ideas, and improving my programming skills step by step.
+
+## Currently Learning
+
+* Programming and software development
+* Data Structures & Algorithms
+* Git & GitHub
+* Artificial Intelligence
+* Software Engineering
+
+
+## Connect with Me
+
+* GitHub: [@Nilmnia](https://github.com/Nilmnia)
